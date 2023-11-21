@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LIFTELEVATE
-- 👀 I’m interested in coding, revolutionizing business, & everything else. I just remain curious & am blessed to keep learning. 🙏 
-- 🌱 I’m currently learning coding, sound engineering, & event coordination
-- 💞️ I’m looking to collaborate on music event planning as well as corporate events and weddings.
-- 📬 admin@liftelevateyou.com 
-You can click the Preview link to take a look at your changes.
---->
+@LIFTELEVATE
+reading, coding, revolutionizing business, & learning. I just remain curious & am blessed to keep learning. 🙏 
+curious about coding, sound engineering, & event coordination
+Collaboration on music event planning as well as corporate events and weddings. Venue availability
+ admin@liftelevateyou.com 
+Lift Elevate Yourself
